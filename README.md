@@ -21,14 +21,9 @@ The Document Question Answering System is a sophisticated tool designed to strea
 
 ## to run 
 
-   (create virtual environment if needed)
-     ```
-     pip install -r requirements.txt
-     ```
-
-     ```
-     streamlit run app.py
-     ```
+1.   (create virtual environment if needed)
+2.   pip install -r requirements.txt
+3.   streamlit run app.py
 
 
 ## API Key Setup
