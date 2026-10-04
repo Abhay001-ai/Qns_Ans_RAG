@@ -23,11 +23,11 @@ The Document Question Answering System is a sophisticated tool designed to strea
 
    (create virtual environment if needed)
      ```
-  1   pip install -r requirements.txt
+     pip install -r requirements.txt
      ```
 
      ```
-   2  streamlit run app.py
+     streamlit run app.py
      ```
 
 
