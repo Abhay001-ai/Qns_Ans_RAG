@@ -47,7 +47,7 @@ prompt1 = st.text_input("Enter Your Question From Documents")
 
 if st.button("Ingest the Data into Vector Store"):
     vector_embedding()
-    st.write("Data is Ingested in vector store database. You can now ask questions.")
+    st.write("Data is Ingested in vector store database. You can now ask questions...")
 
 if prompt1:
 
